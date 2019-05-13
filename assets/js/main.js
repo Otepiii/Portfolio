@@ -143,3 +143,17 @@
 			});
 
 })(jQuery);
+
+tippy('#html', {
+	delay: 0,
+  })
+
+//   tippy('#myButton', {
+// 	duration: 0,
+//   })
+//   tippy('#myButton', {
+// 	duration: 0,
+//   })
+//   tippy('#myButton', {
+// 	duration: 0,
+//   })
