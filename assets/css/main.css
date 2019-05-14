@@ -4118,3 +4118,9 @@ input, select, textarea {
 		padding-left: 40px;
 		box-shadow: #2e3141;
 	}
+
+	#contact {
+		text-align: center
+	}
+
+
